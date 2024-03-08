@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b1e936a-0d36-4e11-811f-1ac0175f662e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Atv.1.13/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv.1.13/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv.1.13/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv.1.13/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv.1.13/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv.1.13/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv.1.13/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv.1.13/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv.1.13/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv.1.6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv.1.6/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv.1.6/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv.1.6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv.1.6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv.1.6/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv.1.6/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv.1.6/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv.1.6/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv1.10/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv1.10/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv1.10/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv1.10/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv1.11/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv1.11/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv1.11/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv1.11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv1.11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv1.11/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv1.11/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv1.11/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv1.11/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv1.14/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv1.14/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv1.14/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv1.14/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv1.15/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv1.15/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv1.15/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv1.15/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv1.7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv1.7/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv1.7/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv1.7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv1.7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv1.8/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv1.8/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv1.8/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv1.8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atv1.8/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2clZpPVN6pNLyd2TzQZyEU1KO7m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build Atv1.16.executor": "Run",
+    "Kotlin.MainKt.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/drein/IdeaProjects/Atv1.16/src/main/kotlin/Main.kt",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-azul-20.0.2-4caba194b151-eb49e076" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b1e936a-0d36-4e11-811f-1ac0175f662e" name="Changes" comment="" />
+      <created>1708688310525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708688310525</updated>
+      <workItem from="1708688311700" duration="162000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
